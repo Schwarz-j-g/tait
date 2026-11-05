@@ -3,7 +3,7 @@
 
 ## Main Features
 
-* **Data Driven на контент**: change the test theme simply by editing the JSON configuration, without recompiling the code.
+* **Data Driven on Content**: change the test theme simply by editing the JSON configuration, without recompiling the code.
 * **Single-Binary**: compiled into one independent executable file for Windows, Linux and macOS with built-in runtime and IL trimming.
 
 ## Quick start
