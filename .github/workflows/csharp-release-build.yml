@@ -22,7 +22,7 @@ jobs:
         include:
           - os: windows-latest
             rid: win-x64
-            artifact_name: tait-csharp-win-x64.exe
+            artifact_name: tait-csharp-win-x64
           - os: ubuntu-latest
             rid: linux-x64
             artifact_name: tait-csharp-linux-x64
