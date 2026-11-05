@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+**/publish-output/
+*.log

@@ -1,0 +1,390 @@
+{
+  "title": "What Game Genre Fits You?",
+  "description": "Answer 10 quick questions and discover which game genre matches your personality and play style.",
+  "questions": [
+    {
+      "text": "How do you like to spend your free time?",
+      "answers": [
+        {
+          "text": "Exploring new places and going on adventures",
+          "scores": {
+            "action_adventure": 3,
+            "rpg": 1
+          }
+        },
+        {
+          "text": "Solving puzzles and thinking strategically",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        },
+        {
+          "text": "Competing with friends and winning",
+          "scores": {
+            "shooter_competitive": 3
+          }
+        },
+        {
+          "text": "Relaxing and taking things at my own pace",
+          "scores": {
+            "simulation_casual": 3
+          }
+        },
+        {
+          "text": "Getting lost in a great story",
+          "scores": {
+            "rpg": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What matters most to you in a game?",
+      "answers": [
+        {
+          "text": "Fast-paced action and reflexes",
+          "scores": {
+            "shooter_competitive": 3,
+            "action_adventure": 1
+          }
+        },
+        {
+          "text": "Deep storytelling and character development",
+          "scores": {
+            "rpg": 3
+          }
+        },
+        {
+          "text": "Brain-teasing challenges",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        },
+        {
+          "text": "Freedom to build and create",
+          "scores": {
+            "simulation_casual": 3
+          }
+        },
+        {
+          "text": "Sense of discovery and exploration",
+          "scores": {
+            "action_adventure": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you handle failure in a game?",
+      "answers": [
+        {
+          "text": "I try again immediately until I succeed",
+          "scores": {
+            "shooter_competitive": 3,
+            "action_adventure": 1
+          }
+        },
+        {
+          "text": "I analyze what went wrong and plan a new approach",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        },
+        {
+          "text": "I take a break and come back relaxed",
+          "scores": {
+            "simulation_casual": 3
+          }
+        },
+        {
+          "text": "I focus on the story and keep moving forward",
+          "scores": {
+            "rpg": 3
+          }
+        },
+        {
+          "text": "I look for another path or hidden solution",
+          "scores": {
+            "action_adventure": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which setting sounds most appealing?",
+      "answers": [
+        {
+          "text": "A vast open world full of secrets",
+          "scores": {
+            "action_adventure": 3
+          }
+        },
+        {
+          "text": "A fantasy realm with magic and lore",
+          "scores": {
+            "rpg": 3
+          }
+        },
+        {
+          "text": "A futuristic battlefield",
+          "scores": {
+            "shooter_competitive": 3
+          }
+        },
+        {
+          "text": "A cozy town or farm",
+          "scores": {
+            "simulation_casual": 3
+          }
+        },
+        {
+          "text": "A challenging maze of logic",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How social are you when gaming?",
+      "answers": [
+        {
+          "text": "I love teaming up and competing online",
+          "scores": {
+            "shooter_competitive": 3
+          }
+        },
+        {
+          "text": "I prefer single-player stories",
+          "scores": {
+            "rpg": 3
+          }
+        },
+        {
+          "text": "I enjoy sharing my creations with others",
+          "scores": {
+            "simulation_casual": 2,
+            "action_adventure": 1
+          }
+        },
+        {
+          "text": "I like discussing strategies with friends",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        },
+        {
+          "text": "I play mostly solo but love exploring",
+          "scores": {
+            "action_adventure": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What kind of challenge excites you most?",
+      "answers": [
+        {
+          "text": "Outsmarting opponents in real time",
+          "scores": {
+            "shooter_competitive": 3
+          }
+        },
+        {
+          "text": "Cracking complex puzzles",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        },
+        {
+          "text": "Defeating powerful bosses",
+          "scores": {
+            "rpg": 2,
+            "action_adventure": 1
+          }
+        },
+        {
+          "text": "Building something from scratch",
+          "scores": {
+            "simulation_casual": 3
+          }
+        },
+        {
+          "text": "Navigating tricky environments",
+          "scores": {
+            "action_adventure": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How much time do you like to invest in one game?",
+      "answers": [
+        {
+          "text": "Short bursts of intense action",
+          "scores": {
+            "shooter_competitive": 3
+          }
+        },
+        {
+          "text": "Hundreds of hours into a rich world",
+          "scores": {
+            "rpg": 3
+          }
+        },
+        {
+          "text": "As long as it takes to master the mechanics",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        },
+        {
+          "text": "Endless relaxing sessions",
+          "scores": {
+            "simulation_casual": 3
+          }
+        },
+        {
+          "text": "Until I've seen every corner of the map",
+          "scores": {
+            "action_adventure": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "Which emotion do you chase in games?",
+      "answers": [
+        {
+          "text": "Adrenaline and excitement",
+          "scores": {
+            "shooter_competitive": 3,
+            "action_adventure": 1
+          }
+        },
+        {
+          "text": "Wonder and immersion",
+          "scores": {
+            "rpg": 3
+          }
+        },
+        {
+          "text": "Satisfaction of solving a tough problem",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        },
+        {
+          "text": "Calm and contentment",
+          "scores": {
+            "simulation_casual": 3
+          }
+        },
+        {
+          "text": "Thrill of discovery",
+          "scores": {
+            "action_adventure": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "How do you prefer to interact with a game world?",
+      "answers": [
+        {
+          "text": "Through combat and movement",
+          "scores": {
+            "shooter_competitive": 2,
+            "action_adventure": 1
+          }
+        },
+        {
+          "text": "Through dialogue and choices",
+          "scores": {
+            "rpg": 3
+          }
+        },
+        {
+          "text": "Through planning and resource management",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        },
+        {
+          "text": "Through building and customizing",
+          "scores": {
+            "simulation_casual": 3
+          }
+        },
+        {
+          "text": "Through exploration and traversal",
+          "scores": {
+            "action_adventure": 3
+          }
+        }
+      ]
+    },
+    {
+      "text": "What makes a game memorable for you?",
+      "answers": [
+        {
+          "text": "Epic multiplayer moments",
+          "scores": {
+            "shooter_competitive": 3
+          }
+        },
+        {
+          "text": "An unforgettable story",
+          "scores": {
+            "rpg": 3
+          }
+        },
+        {
+          "text": "A brilliant puzzle design",
+          "scores": {
+            "strategy_puzzle": 3
+          }
+        },
+        {
+          "text": "A peaceful, creative experience",
+          "scores": {
+            "simulation_casual": 3
+          }
+        },
+        {
+          "text": "A breathtaking world to explore",
+          "scores": {
+            "action_adventure": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "action_adventure",
+      "name": "Action-Adventure Explorer",
+      "description": "You crave discovery and excitement. You love navigating vast worlds, uncovering secrets, and facing challenges head-on. Games that blend exploration, puzzle-solving, and action are your perfect match."
+    },
+    {
+      "id": "rpg",
+      "name": "Story-Driven Role-Player",
+      "description": "You play for the narrative. Deep characters, meaningful choices, and immersive worlds are what draw you in. You enjoy shaping a story and living in another skin for hours on end."
+    },
+    {
+      "id": "shooter_competitive",
+      "name": "Competitive Shooter",
+      "description": "You thrive on adrenaline and competition. Fast reflexes, teamwork, and the thrill of victory keep you coming back. You love testing your skills against others in intense matches."
+    },
+    {
+      "id": "strategy_puzzle",
+      "name": "Strategic Puzzle Master",
+      "description": "You enjoy using your brain. Whether it's turn-based tactics or intricate puzzles, you love analyzing, planning, and finding elegant solutions. Challenges that make you think are your playground."
+    },
+    {
+      "id": "simulation_casual",
+      "name": "Creative Simulator",
+      "description": "You game to relax and create. Building, managing, and customizing at your own pace brings you joy. You value freedom, low pressure, and the satisfaction of seeing your projects grow."
+    }
+  ]
+}
