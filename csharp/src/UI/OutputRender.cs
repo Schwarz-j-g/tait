@@ -56,7 +56,7 @@ public sealed class OutputRender
 
         CN.WriteLine();
         CN.ForegroundColor = ConsoleColor.Green;
-        CN.Write("Ответ: ");
+        CN.Write("Answer: ");
         CN.ResetColor();
     }
 
@@ -67,7 +67,7 @@ public sealed class OutputRender
         CN.Clear();
         CN.ForegroundColor = ConsoleColor.Magenta;
         CN.WriteLine(Separator);
-        CN.WriteLine("      РЕЗУЛЬТАТ ТЕСТИРОВАНИЯ");
+        CN.WriteLine("      TEST RESULT");
         CN.WriteLine(Separator);
         CN.ResetColor();
         CN.WriteLine();
